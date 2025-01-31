@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250131154147 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/12432/20250130.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=12432&amp;date=20250130&amp;timezone=None">
+  <channel id="12432">
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">Eurosport 2</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="12432" start="20250130000000 +0000" stop="20250130003000 +0000">
+    <title lang="zh">Alpine Skiing: World Cup</title>
+    <desc>Action from the second run in the men's giant slalom at Schladming. S2024</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130003000 +0000" stop="20250130021500 +0000">
+    <title lang="zh">Live Alpine Skiing: World Cup</title>
+    <desc>Live coverage of the first run in the men's World Cup slalom under the lights at Schladming in Austria. S2024</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130021500 +0000" stop="20250130031500 +0000">
+    <title lang="zh">Biathlon European Championships: Martell</title>
+    <desc>European Championship action from Martell in Italy, featuring the women's 15km individual event.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130031500 +0000" stop="20250130033000 +0000">
+    <title lang="zh">Winter Sport</title>
+    <desc>A brief look at Charlotte Bankes's medal-winning performance in the 2024 snowboard cross event in Sierra Nevada. S2023</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130033000 +0000" stop="20250130044500 +0000">
+    <title lang="zh">Live Alpine Skiing: World Cup</title>
+    <desc>More live skiing under the lights at Schladming with coverage of the second run in the men's slalom. S2024</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130044500 +0000" stop="20250130051500 +0000">
+    <title lang="zh">Discovery Golf</title>
+    <desc>The latest news from the world of golf. S2025 Ep3</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130051500 +0000" stop="20250130061500 +0000">
+    <title lang="zh">Cycling: AlUla Tour</title>
+    <desc>Action from stage two of the AlUla Tour in Saudi Arabia. S2025 Ep2</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130061500 +0000" stop="20250130064500 +0000">
+    <title lang="zh">Cycling: Challenge Mallorca</title>
+    <desc>Men's cycling from Mallorca, featuring the one-day Trofeo Calvia race.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130064500 +0000" stop="20250130071500 +0000">
+    <title lang="zh">Cycling: Challenge Mallorca</title>
+    <desc>Men's cycling from Mallorca, featuring the one-day Trofeo Calvia race.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130071500 +0000" stop="20250130073000 +0000">
+    <title lang="zh">Alpine Skiing: World Cup</title>
+    <desc>The best of the action from the first run in the men's World Cup slalom at Schladming in Austria. S2024</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130073000 +0000" stop="20250130074500 +0000">
+    <title lang="zh">Alpine Skiing: World Cup</title>
+    <desc>The best of the action from the first run in the men's World Cup slalom at Schladming in Austria. S2024</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130074500 +0000" stop="20250130080000 +0000">
+    <title lang="zh">Alpine Skiing: World Cup</title>
+    <desc>Coverage of the second run in the men's slalom at Schladming. S2024</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130080000 +0000" stop="20250130081500 +0000">
+    <title lang="zh">Alpine Skiing: World Cup</title>
+    <desc>Coverage of the second run in the men's slalom at Schladming. S2024</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130081500 +0000" stop="20250130083000 +0000">
+    <title lang="zh">Winter Sport</title>
+    <desc>A chance to see Zoe Atkin's performance in the 2023 Freestyle Ski World Cup event at Copper Mountain.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130083000 +0000" stop="20250130090000 +0000">
+    <title lang="zh">Discovery Golf</title>
+    <desc>The latest news from the world of golf. S2025 Ep3</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130090000 +0000" stop="20250130100000 +0000">
+    <title lang="zh">Australian Open Tennis</title>
+    <desc>Highlights of the action from the 2025 Australian Open in Melbourne. S2025</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130100000 +0000" stop="20250130110000 +0000">
+    <title lang="zh">Cycling: Challenge Mallorca</title>
+    <desc>Men's cycling from Mallorca, featuring the one-day Trofeo Calvia race.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130110000 +0000" stop="20250130120000 +0000">
+    <title lang="zh">Cycling: AlUla Tour</title>
+    <desc>Action from stage two of the AlUla Tour in Saudi Arabia. S2025 Ep2</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130120000 +0000" stop="20250130140000 +0000">
+    <title lang="zh">Snooker: German Masters</title>
+    <desc>Action from the second round of snooker's German Masters in Berlin. S2025</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130140000 +0000" stop="20250130150000 +0000">
+    <title lang="zh">Australian Open Tennis</title>
+    <desc>The best of the action from the men's doubles final as Simone Bolelli and Andrea Vavassori play Harri Heliovaara and Henry Patten. S2025</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130150000 +0000" stop="20250130160000 +0000">
+    <title lang="zh">Australian Open Tennis</title>
+    <desc>Katerina Siniakova and Taylor Townsend play Su-Wei Hsieh and Jelena Ostapenko in the women's doubles final at the Australian Open. S2025</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130160000 +0000" stop="20250130163000 +0000">
+    <title lang="zh">Cyclo-Cross: World Cup</title>
+    <desc>Another chance to see the women's race at the World Cup meeting at Hoogerheide in the Netherlands. S2024</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130163000 +0000" stop="20250130173000 +0000">
+    <title lang="zh">Biathlon European Championships: Martell</title>
+    <desc>European Championship action from Martell in Italy, featuring the women's 15km individual event.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130173000 +0000" stop="20250130183000 +0000">
+    <title lang="zh">Cycling: Challenge Mallorca</title>
+    <desc>Men's cycling from Mallorca, featuring the one-day Trofeo Calvia race.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130183000 +0000" stop="20250130193000 +0000">
+    <title lang="zh">Cycling: AlUla Tour</title>
+    <desc>Action from stage two of the AlUla Tour in Saudi Arabia. S2025 Ep2</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130193000 +0000" stop="20250130213000 +0000">
+    <title lang="zh">Live Cycling: AlUla Tour</title>
+    <desc>Live men's cycling from Saudi Arabia featuring stage three of the AlUla Tour. S2025 Ep3</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130213000 +0000" stop="20250130231500 +0000">
+    <title lang="zh">Live Cycling: Challenge Mallorca</title>
+    <desc>Live men's cycling from Mallorca with coverage of the one-day Trofeo Felanitx-Ses Salines race. S2025</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130231500 +0000" stop="20250130233000 +0000">
+    <title lang="zh">Cycling: Paris-Roubaix</title>
+    <desc>Women's cycling from France with action from the Paris-Roubaix one-day race. S2024</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130233000 +0000" stop="20250130234500 +0000">
+    <title lang="zh">Cycling: Paris-Roubaix</title>
+    <desc>Highlights of the 121st Paris-Roubaix one-day race for men. S2024</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250130234500 +0000" stop="20250131000000 +0000">
+    <title lang="zh">Live Alpine Skiing: World Cup</title>
+    <desc>Live World Cup skiing from Courchevel in France, the setting for the first run in today's women's slalom. S2024</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12432" start="20250131013000 +0000" stop="20250131020000 +0000">
+    <title lang="zh">Alpine Skiing: World Cup</title>
+    <desc>The best of the action from the first run in the men's World Cup slalom at Schladming in Austria. S2024</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131020000 +0000" stop="20250131023000 +0000">
+    <title lang="zh">Alpine Skiing: World Cup</title>
+    <desc>Coverage of the second run in the men's slalom at Schladming. S2024</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131023000 +0000" stop="20250131024500 +0000">
+    <title lang="zh">Winter Sport</title>
+    <desc>See Mia Brookes's podium finish in the big air event at the 2023 Snowboarding World Cup round at Copper Mountain, Colorado. S2023</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131024500 +0000" stop="20250131040000 +0000">
+    <title lang="zh">Live Alpine Skiing: World Cup</title>
+    <desc>More live skiing from Courchevel featuring the second run in the women's slalom competition. S2024</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131040000 +0000" stop="20250131050000 +0000">
+    <title lang="zh">Cycling: AlUla Tour</title>
+    <desc>A look back at the third stage of the AlUla Tour.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131050000 +0000" stop="20250131060000 +0000">
+    <title lang="zh">Cycling: Challenge Mallorca</title>
+    <desc>Men's cycling from Mallorca with coverage of the one-day Trofeo Felanitx-Ses Salines race. S2025</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131060000 +0000" stop="20250131063000 +0000">
+    <title lang="zh">Alpine Skiing: World Cup</title>
+    <desc>A recap of the action from the first run in the women's World Cup slalom at Courchevel in France. S2024</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131063000 +0000" stop="20250131070000 +0000">
+    <title lang="zh">Alpine Skiing: World Cup</title>
+    <desc>Action from the second run in the women's slalom competition at Courchevel in France. S2024</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131070000 +0000" stop="20250131090000 +0000">
+    <title lang="zh">Australian Open Tennis</title>
+    <desc>The best of the action from the 2025 men's singles final at the Australian Open in Melbourne as Jannik Sinner faces Alexander Zverev S2025</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131090000 +0000" stop="20250131093000 +0000">
+    <title lang="zh">Alpine Skiing: World Cup</title>
+    <desc>A recap of the action from the first run in the women's World Cup slalom at Courchevel in France. S2024</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131093000 +0000" stop="20250131100000 +0000">
+    <title lang="zh">Alpine Skiing: World Cup</title>
+    <desc>Action from the second run in the women's slalom competition at Courchevel in France. S2024</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131100000 +0000" stop="20250131110000 +0000">
+    <title lang="zh">Cycling: Challenge Mallorca</title>
+    <desc>Men's cycling from Mallorca with coverage of the one-day Trofeo Felanitx-Ses Salines race. S2025</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131110000 +0000" stop="20250131120000 +0000">
+    <title lang="zh">Cycling: AlUla Tour</title>
+    <desc>A look back at the third stage of the AlUla Tour.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131120000 +0000" stop="20250131140000 +0000">
+    <title lang="zh">Snooker: German Masters</title>
+    <desc>Snooker action from the Tempodrom in Berlin, featuring third-round matches on day four of the tournament. S2025</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131140000 +0000" stop="20250131150000 +0000">
+    <title lang="zh">Australian Open Tennis</title>
+    <desc>Action from the mixed doubles final, an all-Australian affair as Kimberly Birrell and John-Patrick Smith play Olivia Gadecki and John Peers. S2025</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131150000 +0000" stop="20250131160000 +0000">
+    <title lang="zh">Australian Open Tennis</title>
+    <desc>Highlights of the action from the 2025 Australian Open in Melbourne. S2025</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131160000 +0000" stop="20250131163000 +0000">
+    <title lang="zh">Cyclo-Cross: World Cup</title>
+    <desc>Cyclo-cross from Hoogerheide with action from the men's race during the final round of the World Cup season. S2024</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131163000 +0000" stop="20250131170000 +0000">
+    <title lang="zh">Alpine Skiing: World Cup</title>
+    <desc>A recap of the action from the first run in the women's World Cup slalom at Courchevel in France. S2024</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131170000 +0000" stop="20250131173000 +0000">
+    <title lang="zh">Alpine Skiing: World Cup</title>
+    <desc>Action from the second run in the women's slalom competition at Courchevel in France. S2024</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131173000 +0000" stop="20250131183000 +0000">
+    <title lang="zh">Cycling: Challenge Mallorca</title>
+    <desc>Men's cycling from Mallorca with coverage of the one-day Trofeo Felanitx-Ses Salines race. S2025</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131183000 +0000" stop="20250131193000 +0000">
+    <title lang="zh">Cycling: AlUla Tour</title>
+    <desc>A look back at the third stage of the AlUla Tour.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131193000 +0000" stop="20250131213000 +0000">
+    <title lang="zh">Live Cycling: AlUla Tour</title>
+    <desc>Live coverage of stage four of the AlUla Tour in Saudi Arabia. S2025 Ep4</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131213000 +0000" stop="20250131231500 +0000">
+    <title lang="zh">Live Cycling: Challenge Mallorca</title>
+    <desc>Live men's cycling from Mallorca featuring coverage of the one-day Trofeo Serra Tramuntana. S2025</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12432" start="20250131231500 +0000" stop="20250201000000 +0000">
+    <title lang="zh">Live Ski Jumping: World Cup</title>
+    <desc>The opening day of the World Cup meeting at Willingen in Germany sees live coverage of the mixed team HS147 competition. S2024</desc>
+    <date>2025-01-31</date>
+  </programme>
+</tv>

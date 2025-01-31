@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250131154129 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/12308/20250130.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=12308&amp;date=20250130&amp;timezone=None">
+  <channel id="12308">
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">Eurosport 1 HD</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="12308" start="20250130000000 +0000" stop="20250130010000 +0000">
+    <title lang="zh">Snooker: German Masters</title>
+    <desc>Action from the first round of the German Masters as Mark Williams plays Aaron Hill. S2025</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12308" start="20250130010000 +0000" stop="20250130020000 +0000">
+    <title lang="zh">Australian Open Tennis</title>
+    <desc>The best of the action from the men's doubles final as Simone Bolelli and Andrea Vavassori play Harri Heliovaara and Henry Patten. S2025</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12308" start="20250130020000 +0000" stop="20250130030000 +0000">
+    <title lang="zh">Equestrianism: Jumping World Cup</title>
+    <desc>Show jumping from Amsterdam, the venue for the latest World Cup round of the season. S2024</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12308" start="20250130030000 +0000" stop="20250130045500 +0000">
+    <title lang="zh">Live Snooker: German Masters</title>
+    <desc>Live coverage of the evening session on day three of the German Masters in Berlin, featuring action from the second round of the tournament. S2025</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12308" start="20250130045500 +0000" stop="20250130060000 +0000">
+    <title lang="zh">Snooker: German Masters</title>
+    <desc>Action from the second round of the German Masters with a review of the snooker during the afternoon session on day three. S2025</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12308" start="20250130060000 +0000" stop="20250130080000 +0000">
+    <title lang="zh">Snooker: German Masters</title>
+    <desc>Action from the second round of the German Masters with a review of the snooker during the afternoon session on day three. S2025</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12308" start="20250130080000 +0000" stop="20250130090000 +0000">
+    <title lang="zh">Cycling: AlUla Tour</title>
+    <desc>Action from stage two of the AlUla Tour in Saudi Arabia. S2025 Ep2</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12308" start="20250130090000 +0000" stop="20250130100000 +0000">
+    <title lang="zh">Cycling: Challenge Mallorca</title>
+    <desc>Men's cycling from Mallorca, featuring the one-day Trofeo Calvia race.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12308" start="20250130100000 +0000" stop="20250130120000 +0000">
+    <title lang="zh">Snooker: German Masters</title>
+    <desc>Action from the second round of snooker's German Masters in Berlin. S2025</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12308" start="20250130120000 +0000" stop="20250130123000 +0000">
+    <title lang="zh">Alpine Skiing: World Cup</title>
+    <desc>The best of the action from the first run in the men's World Cup slalom at Schladming in Austria. S2024</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12308" start="20250130123000 +0000" stop="20250130130000 +0000">
+    <title lang="zh">Alpine Skiing: World Cup</title>
+    <desc>Coverage of the second run in the men's slalom at Schladming. S2024</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12308" start="20250130130000 +0000" stop="20250130140000 +0000">
+    <title lang="zh">Cycling: Challenge Mallorca</title>
+    <desc>Men's cycling from Mallorca, featuring the one-day Trofeo Calvia race.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12308" start="20250130140000 +0000" stop="20250130150000 +0000">
+    <title lang="zh">Cycling: AlUla Tour</title>
+    <desc>Action from stage two of the AlUla Tour in Saudi Arabia. S2025 Ep2</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12308" start="20250130150000 +0000" stop="20250130170000 +0000">
+    <title lang="zh">Snooker: German Masters</title>
+    <desc>Action from the second round of snooker's German Masters in Berlin. S2025</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12308" start="20250130170000 +0000" stop="20250130180000 +0000">
+    <title lang="zh">Australian Open Tennis</title>
+    <desc>Highlights of the action from the 2025 Australian Open in Melbourne. S2025</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12308" start="20250130180000 +0000" stop="20250130183000 +0000">
+    <title lang="zh">Alpine Skiing: World Cup</title>
+    <desc>The best of the action from the first run in the men's World Cup slalom at Schladming in Austria. S2024</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12308" start="20250130183000 +0000" stop="20250130190000 +0000">
+    <title lang="zh">Alpine Skiing: World Cup</title>
+    <desc>Coverage of the second run in the men's slalom at Schladming. S2024</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12308" start="20250130190000 +0000" stop="20250130200000 +0000">
+    <title lang="zh">Biathlon European Championships: Martell</title>
+    <desc>European Championship action from Martell in Italy, featuring the women's 15km individual event.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12308" start="20250130200000 +0000" stop="20250130220000 +0000">
+    <title lang="zh">Snooker: German Masters</title>
+    <desc>Action from the second round of snooker's German Masters in Berlin. S2025</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12308" start="20250130220000 +0000" stop="20250131000000 +0000">
+    <title lang="zh">Live Snooker: German Masters</title>
+    <desc>The afternoon session on day four of the German Masters with live coverage of matches in the third round of the tournament. S2025</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="12308" start="20250131010000 +0000" stop="20250131011500 +0000">
+    <title lang="zh">Australian Open Tennis</title>
+    <desc>Highlights of the action from the 2025 Australian Open in Melbourne. S2025</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131011500 +0000" stop="20250131020000 +0000">
+    <title lang="zh">Australian Open Tennis</title>
+    <desc>Highlights of the action from the 2025 Australian Open in Melbourne. S2025</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131020000 +0000" stop="20250131021500 +0000">
+    <title lang="zh">Snooker: German Masters</title>
+    <desc>A look back at the afternoon session on day four in Berlin with action from the third round of the German Masters. S2025</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131021500 +0000" stop="20250131030000 +0000">
+    <title lang="zh">Snooker: German Masters</title>
+    <desc>A look back at the afternoon session on day four in Berlin with action from the third round of the German Masters. S2025</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131030000 +0000" stop="20250131060000 +0000">
+    <title lang="zh">Live Snooker: German Masters</title>
+    <desc>Live snooker from the Tempodrom in Berlin with action from the third round of the German Masters. S2025</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131060000 +0000" stop="20250131080000 +0000">
+    <title lang="zh">Snooker: German Masters</title>
+    <desc>A look back at the afternoon session on day four in Berlin with action from the third round of the German Masters. S2025</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131080000 +0000" stop="20250131090000 +0000">
+    <title lang="zh">Cycling: AlUla Tour</title>
+    <desc>A look back at the third stage of the AlUla Tour.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131090000 +0000" stop="20250131100000 +0000">
+    <title lang="zh">Cycling: Challenge Mallorca</title>
+    <desc>Men's cycling from Mallorca with coverage of the one-day Trofeo Felanitx-Ses Salines race. S2025</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131100000 +0000" stop="20250131120000 +0000">
+    <title lang="zh">Snooker: German Masters</title>
+    <desc>Snooker action from the Tempodrom in Berlin, featuring third-round matches on day four of the tournament. S2025</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131120000 +0000" stop="20250131123000 +0000">
+    <title lang="zh">Alpine Skiing: World Cup</title>
+    <desc>A recap of the action from the first run in the women's World Cup slalom at Courchevel in France. S2024</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131123000 +0000" stop="20250131130000 +0000">
+    <title lang="zh">Alpine Skiing: World Cup</title>
+    <desc>Action from the second run in the women's slalom competition at Courchevel in France. S2024</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131130000 +0000" stop="20250131140000 +0000">
+    <title lang="zh">Cycling: Challenge Mallorca</title>
+    <desc>Men's cycling from Mallorca with coverage of the one-day Trofeo Felanitx-Ses Salines race. S2025</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131140000 +0000" stop="20250131150000 +0000">
+    <title lang="zh">Cycling: AlUla Tour</title>
+    <desc>A look back at the third stage of the AlUla Tour.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131150000 +0000" stop="20250131170500 +0000">
+    <title lang="zh">Snooker: German Masters</title>
+    <desc>Snooker action from the Tempodrom in Berlin, featuring third-round matches on day four of the tournament. S2025</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131170500 +0000" stop="20250131173500 +0000">
+    <title lang="zh">Discovery Golf</title>
+    <desc>The latest news from the world of golf. S2025 Ep3</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131173500 +0000" stop="20250131190000 +0000">
+    <title lang="zh">Live Biathlon European Championships: Martell</title>
+    <desc>Live European Championship action from Martell in Italy where the women's 7.5km sprint takes place.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131190000 +0000" stop="20250131192000 +0000">
+    <title lang="zh">Live Nordic Combined Skiing: World Cup</title>
+    <desc>Live coverage of the women's 5km mass start event at the World Cup meeting in Seefeld, Austria. S2024</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131192000 +0000" stop="20250131193500 +0000">
+    <title lang="zh">Winter Sport</title>
+    <desc>A brief look at Charlotte Bankes's medal-winning performance in the 2024 snowboard cross event in Sierra Nevada. S2023</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131193500 +0000" stop="20250131201500 +0000">
+    <title lang="zh">Live Nordic Combined Skiing: World Cup</title>
+    <desc>More live World Cup action from Seefeld with coverage of the men's 10km mass start event. S2024</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131201500 +0000" stop="20250131212000 +0000">
+    <title lang="zh">Live Cross-Country Skiing: World Cup</title>
+    <desc>Live cross-country skiing action from Cogne in Italy, featuring both the men's and women's team sprint classics. S2024</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131212000 +0000" stop="20250131215000 +0000">
+    <title lang="zh">Live Nordic Combined Skiing: World Cup</title>
+    <desc>More live Nordic Combined action from Seefeld with coverage of the women's HS109 ski jumping competition. S2024</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131215000 +0000" stop="20250131220000 +0000">
+    <title lang="zh">Snooker 147s</title>
+    <desc>A maximum clearance by Ronnie O'Sullivan at the 2018 English Open S2018</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="12308" start="20250131220000 +0000" stop="20250201000000 +0000">
+    <title lang="zh">Live Snooker: German Masters</title>
+    <desc>Live snooker from Berlin as the German Masters reaches the quarter-final stage. S2025</desc>
+    <date>2025-01-31</date>
+  </programme>
+</tv>
